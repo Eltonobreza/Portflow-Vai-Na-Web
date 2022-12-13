@@ -1,6 +1,6 @@
 # Portflow -  Vai Na Web
 
-![preview](./.gituhub/preview.png)
+![preview](./.github/preview.png)
 
 > Módulo 1 
 
